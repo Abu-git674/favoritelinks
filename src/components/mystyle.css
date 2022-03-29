@@ -1,0 +1,46 @@
+/*styling link container */
+
+.header {
+    margin-left: 3%;
+}
+
+
+/*styling table file*/
+
+#delete{
+    
+    padding: 20px;
+    
+}
+
+.tableheader th,
+.tableheader td{
+
+    padding-left:35px ;
+    padding-bottom: 30px;
+    border-bottom: 1px solid gray;
+}
+/*   */
+
+  
+  
+  
+
+  /*styling form*/ 
+.form{
+    margin-left: 3%;
+}
+ .linkbox{
+     width: 80%;
+     margin-bottom: 1%;
+     padding: 1%;
+
+ }
+ 
+.button{
+     background-color: #0267EF;
+     width: 10%;
+     padding:1%;
+     margin-top: -1.5%;
+     color: white;
+ }
